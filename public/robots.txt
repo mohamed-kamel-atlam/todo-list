@@ -1,3 +1,12 @@
-# https://www.robotstxt.org/robotstxt.html
+# robots.txt for مهامي
+# https://your-domain.com/
+
 User-agent: *
-Disallow:
+Allow: /
+
+# Block access to build artifacts and source maps
+Disallow: /static/js/*.map
+Disallow: /static/css/*.map
+
+# Sitemap location
+Sitemap: https://your-domain.com/sitemap.xml
