@@ -3,14 +3,14 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://your-domain.com/</loc>
+    <loc>https://todo-list-atlam.netlify.app/</loc>
     <lastmod>2026-04-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://your-domain.com/"
+      href="https://todo-list-atlam.netlify.app/"
     />
   </url>
 

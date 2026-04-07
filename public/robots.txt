@@ -1,5 +1,5 @@
 # robots.txt for مهامي
-# https://your-domain.com/
+# https://todo-list-atlam.netlify.app/
 
 User-agent: *
 Allow: /
@@ -9,4 +9,4 @@ Disallow: /static/js/*.map
 Disallow: /static/css/*.map
 
 # Sitemap location
-Sitemap: https://your-domain.com/sitemap.xml
+Sitemap: https://todo-list-atlam.netlify.app/sitemap.xml
